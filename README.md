@@ -85,6 +85,7 @@ This analysis helps businesses to:
 ## 📁 Project Structure
 Raw data file
 [customer_shopping_behavior (3).csv](https://github.com/user-attachments/files/25255773/customer_shopping_behavior.3.csv)
+
 Cleaning data pictures
 <img width="1271" height="663" alt="DATA" src="https://github.com/user-attachments/assets/c3451abd-96fb-4cbe-971e-48c562d51e78" />
 <img width="1271" height="663" alt="DATA" src="https://github.com/user-attachments/assets/c3451abd-96fb-4cbe-971e-48c562d51e78" />
@@ -92,7 +93,9 @@ Cleaning data pictures
 <img width="1266" height="612" alt="DATA 2" src="https://github.com/user-attachments/assets/05f63da2-b6ec-405b-8c0e-5a1151032f63" />
 
 
----
+
+
+
 
 ## 📌 Future Improvements
 
