@@ -90,9 +90,9 @@ Cleaning data pictures
 <img width="1271" height="663" alt="DATA" src="https://github.com/user-attachments/assets/c3451abd-96fb-4cbe-971e-48c562d51e78" />
 <img width="1271" height="663" alt="DATA" src="https://github.com/user-attachments/assets/c3451abd-96fb-4cbe-971e-48c562d51e78" />
 <img width="1266" height="612" alt="DATA 2" src="https://github.com/user-attachments/assets/05f63da2-b6ec-405b-8c0e-5a1151032f63" />
-<img width="1266" height="612" alt="DATA 2" src="https://github.com/user-attachments/assets/05f63da2-b6ec-405b-8c0e-5a1151032f63" />
-
-
+<img width="1266" height="612" alt="DATA 2" src="https://github.com/user-attachments/assets/05f63da2-b6ec-405b-8c0e-5a1151032f63" /
+<img width="1579" height="584" alt="DATA CLEANING" src="https://github.com/user-attachments/assets/94dd7129-5e33-409a-b6a2-f64e1dd9e4cf" />
+<img width="1579" height="584" alt="DATA CLEANING" src="https://github.com/user-attachments/assets/94dd7129-5e33-409a-b6a2-f64e1dd9e4cf" />
 
 
 
@@ -109,8 +109,5 @@ Cleaning data pictures
 
 **Somashekara L**  
 Aspiring Data Analyst | Python | SQL | Data Analysis  
-
-<img width="1579" height="584" alt="DATA CLEANING" src="https://github.com/user-attachments/assets/94dd7129-5e33-409a-b6a2-f64e1dd9e4cf" />
-<img width="1579" height="584" alt="DATA CLEANING" src="https://github.com/user-attachments/assets/94dd7129-5e33-409a-b6a2-f64e1dd9e4cf" />
 
 
